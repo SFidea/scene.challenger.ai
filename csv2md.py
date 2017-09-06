@@ -1,8 +1,11 @@
+# -*- coding: utf-8 -*-
+
 import csv
 
 
 print "| Label id | Chinese label | English label |"
-print "| -------- | ------------- | ------------- |"
+print "|   ---:   | ------------- | ------------- |"
+print "| 999 | 非以下分类 | none of below |"
 
 with open('original/scene_classes.csv', 'rb') as f:
     reader = csv.reader(f)
