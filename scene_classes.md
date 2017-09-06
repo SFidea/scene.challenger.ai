@@ -1,6 +1,6 @@
 | Label id | Chinese label | English label |
 |   ---:   | ------------- | ------------- |
-| 999 | 非以下分类 | none_of_below |
+| 999 | 其他 | other |
 | 0 | 航站楼 | airport_terminal |
 | 1 | 停机坪 | landing_field |
 | 2 | 机舱 | airplane_cabin |

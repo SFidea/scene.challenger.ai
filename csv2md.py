@@ -5,7 +5,7 @@ import csv
 
 print "| Label id | Chinese label | English label |"
 print "|   ---:   | ------------- | ------------- |"
-print "| 999 | 非以下分类 | none_of_below |"
+print "| 999 | 其他 | other |"
 
 with open('original/scene_classes.csv', 'rb') as f:
     reader = csv.reader(f)
